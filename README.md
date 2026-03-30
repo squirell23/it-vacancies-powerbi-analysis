@@ -102,27 +102,27 @@ Excel-источники с вакансиями
 
 ## Структура репозитория
 
-
+`Анализ_рынка_IT.pbix` — основной файл Power BI с итоговым дашбордом
 `README.md` — описание проекта
-`screenshots/market_overview.png` — главная страница с обзором рынка вакансий
-`screenshots/employers_salary_structure.png` — страница с работодателями, зарплатами и типами занятости
-`screenshots/vacancies_geography.png` — карта распределения вакансий
-`data/vacancies_part_356.png` — первая выборка
-`data/vacancies_part_604.png` — вторая выборка
-`data/vacancies_part_858.png` — третья выборка
+`screenshots/market_overview.PNG` — главная страница с обзором рынка вакансий
+`screenshots/employers_salary_structure.PNG` — страница с работодателями, зарплатами и типами занятости
+`screenshots/vacancies_geography.PNG` — карта распределения вакансий
+`data/vacancies_part_356.xlsx` — первая выборка
+`data/vacancies_part_604.xlsx` — вторая выборка
+`data/vacancies_part_858.xlsx` — третья выборка
 
 ---
 
 ## Скриншоты
 
 ### Обзор рынка вакансий
-![Обзор рынка вакансий](screenshots/market_overview.png)
+![Обзор рынка вакансий](screenshots/market_overview.PNG)
 
 ### Работодатели, зарплаты и вакансии
-![Работодатели, зарплаты и вакансии](screenshots/employers_salary_structure.png)
+![Работодатели, зарплаты и вакансии](screenshots/employers_salary_structure.PNG)
 
 ### География размещения вакансий
-![География вакансий](screenshots/vacancies_geography.png)
+![География вакансий](screenshots/vacancies_geography.PNG)
 
 ---
 
